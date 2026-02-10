@@ -1,88 +1,84 @@
-<h1 align="center">Hi 👋, I'm Madem Sri Harsha Vardhan Reddy</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | Backend Developer | AI Enthusiast</h3>
-
----
-
-## 🚀 About Me
-
-- 🎓 Recent Computer Science Engineering Graduate
-- 💻 Passionate about Backend Development and building scalable applications
-- 🌱 Currently learning Advanced Spring Boot, Microservices, and AI Engineering
-- 🔧 Strong in Java, REST APIs, and Full Stack Development
-- 📈 Focused on becoming a Software Engineer / AI Engineer
-- ⚡ Love building real-world projects and solving problems
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-- Java
-- Python
-- JavaScript
-- SQL
-
-**Backend**
-- Spring Boot
-- REST APIs
-- JDBC
-
-**Frontend**
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-**Database**
-- MySQL
-
-**Tools**
-- Git & GitHub
-- Postman
-- VS Code
-- IntelliJ IDEA
-
----
-
-## 📌 Featured Projects
-
-### ♻️ Smart E-Waste Management System
-- Full Stack web application using React, Spring Boot, MySQL
-- Users can request e-waste pickup through web interface
-- Admin dashboard to manage requests efficiently
-- REST API based backend architecture
-
-### 📚 Personalized Book Recommendation System
-- Machine learning based recommendation system
-- Built using Python, Streamlit
-- Uses collaborative filtering and content-based filtering
-- Provides personalized recommendations
-
----
-
-## 📊 GitHub Stats
-
+<h1 align="center">Hey👋 I'm Madem Sri Harsha Vardhan Reddy</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;Frontend+Developer;Software+Engineer+Aspiring;AI+Engineering+Enthusiast&center=true&width=700&height=80&size=35">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
-</p>
 
----
+### Introduction
 
-## 📫 Connect With Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-- LinkedIn: https://www.linkedin.com/in/m-s-harsha-vardhan-reddy-590080252/
-- Email: your-email@example.com
+- 🎓 Computer Science Engineering Graduate 2025
+- 💻 Passionate about Backend Development and scalable system design  
+- ☕ Strong in Java, Spring Boot, and REST API development  
+- 🌱 Currently learning Microservices and AI Engineering  
+- 🚀 Focused on becoming a professional Software Engineer  
+- ⚡ Consistently learning and improving through hands-on development  
 
----
+<br clear="right"/>
 
-## 🎯 Career Objective
 
-To obtain a Software Engineer role where I can apply my Java, Spring Boot, and Full Stack skills to build scalable and impactful applications while continuously improving my technical expertise.
 
----
+###
 
-⭐ From [Harsha Vardhan](https://github.com/YOUR_USERNAME)
+<div align="center">
+  <a href="https://www.instagram.com/_always_chinnu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/m-sri-harsha-vardhan-reddy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:madem.harsha2004@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/Mr_Harsha1405" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+### Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="60" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+</div>
+
+### Activity on GitHub
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SriHarsha1405&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+  
+</div>
+
+
